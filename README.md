@@ -15,11 +15,11 @@ Check if Android NDK version is atleast 19.0.0:
 	`assert_ndk_version.sh 19.0.0 "$ANDROID_NDK_ROOT"`
 
 
+You can download a release [here](https://github.com/agnostic-apollo/android_ndk_version_checker/releases).
+
+
+Currently used in this [project](https://github.com/agnostic-apollo/Android-NDK-Cross-Compile-Build-Automator).
+
+
 Credits for original script:  
 [jorgenpt](https://gist.github.com/jorgenpt/1961404)
-
-
-Currently used [here](https://github.com/agnostic-apollo/Android-NDK-Cross-Compile-Build-Automator).
-
-
-
